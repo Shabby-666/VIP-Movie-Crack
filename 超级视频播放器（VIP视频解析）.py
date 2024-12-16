@@ -56,4 +56,4 @@ if __name__ == "__main__":
 
     #执行程序
     root.resizable(0,0) #固定窗口大小
-    root.mainloop
+    root.mainloop()
